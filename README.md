@@ -17,9 +17,9 @@ up to date. Quit Logic before updating, then reopen it. Plug-ins appear in Logic
 | **HyperFract** (instrument) | 1.0.1 | [HyperFract-1.0.1-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/HyperFract-v1.0.1/HyperFract-1.0.1-mac.zip) |
 | **The Arsenal** (instrument) | 1.1.0 | [TheArsenal-1.1.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/TheArsenal-v1.1.0/TheArsenal-1.1.0-mac.zip) |
 | **DIAMAT** (instrument) | 1.0.0 | [DIAMAT-1.0.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/DIAMAT-v1.0.0/DIAMAT-1.0.0-mac.zip) |
-| **Feral** (instrument) | 1.4.0 | [Feral-1.4.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Feral-v1.4.0/Feral-1.4.0-mac.zip) |
 | **Unmasked** (instrument) | 1.1.0 | [Unmasked-1.1.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Unmasked-v1.1.0/Unmasked-1.1.0-mac.zip) |
 | **Tractors** (instrument) | 1.4.0 | [Tractors-1.4.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Tractors-v1.4.0/Tractors-1.4.0-mac.zip) |
 | **Meltdown** (instrument) | 5.0.1 | [Meltdown-5.0.1-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Meltdown-v5.0.1/Meltdown-5.0.1-mac.zip) |
 | **DZ Central** (app) | 1.6.0 | [DZCentral-1.6.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/DZCentral-v1.6.0/DZCentral-1.6.0-mac.zip) |
 | **The Bully** (instrument) | 1.1.0 | [TheBully-1.1.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/TheBully-v1.1.0/TheBully-1.1.0-mac.zip) |
+| **Feral** (instrument) | 1.5.0 | [Feral-1.5.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Feral-v1.5.0/Feral-1.5.0-mac.zip) |
