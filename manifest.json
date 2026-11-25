@@ -1,6 +1,6 @@
 {
   "company": "Dead Zero",
-  "updated": "2026-11-25T06:18:14Z",
+  "updated": "2026-11-25T06:30:11Z",
   "items": [
     { "name": "VoxMutant", "kind": "effect", "bundle": "VoxMutant.component", "version": "1.4.0", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/VoxMutant-v1.4.0/VoxMutant-1.4.0-mac.zip", "sha256": "31e52c1ddb4950a7a74f7fc62e03ea1013e21f2e864618d00227c4455ec86d84", "size": 3242208, "date": "2026-11-24", "notes": "Set up DZS: one home for every DZS plug-in" },
     { "name": "VoxMutant Sing", "kind": "instrument", "bundle": "VoxMutant Sing.component", "version": "1.4.0", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/VoxMutantSing-v1.4.0/VoxMutantSing-1.4.0-mac.zip", "sha256": "4715ace8b5f46e63a7c2858229b8286d426f20ced49a1c1c9e7a1b97a97bdce5", "size": 4788454, "date": "2026-11-24", "notes": "Set up DZS: one home for every DZS plug-in" },
@@ -11,7 +11,7 @@
     { "name": "John Drop Tractor Bass", "kind": "instrument", "bundle": "John Drop Tractor Bass.component", "version": "1.3.1", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/JohnDropTractorBass-v1.3.1/JohnDropTractorBass-1.3.1-mac.zip", "sha256": "d585e2796aa9a6feb3bcbe09ef420d8c9aca75d0d3e242ebac1264820ae804f4", "size": 3434127, "date": "2026-11-24", "notes": "John Drop Tractor Bass 1.3.1" },
     { "name": "Riddim Forge", "kind": "instrument", "bundle": "Riddim Forge.component", "version": "5.0.0", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/RiddimForge-v5.0.0/RiddimForge-5.0.0-mac.zip", "sha256": "f1dae543802e206b5626649e257b090800834f5158c7802c05a880f3ab57e47e", "size": 3394695, "date": "2026-11-24", "notes": "Riddim Forge 5.0.0" },
     { "name": "Unmasked", "kind": "instrument", "bundle": "Unmasked.component", "version": "1.0.0", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/Unmasked-v1.0.0/Unmasked-1.0.0-mac.zip", "sha256": "629e078c046d17c0093e5d2b9df7ec78d2535bff5db7e1302c8aec1083a20c05", "size": 4535331, "date": "2026-11-24", "notes": "Unmasked 1.0.0" },
-    { "name": "DZ Central", "kind": "app", "bundle": "DZ Central.app", "version": "1.0.0", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/DZCentral-v1.0.0/DZCentral-1.0.0-mac.zip", "sha256": "3f596e2780e1d8b1aed3d2769d4ba0f0e119bd888a5469f7f044954e1d5d5fa6", "size": 5751935, "date": "2026-11-24", "notes": "DZ Central, Dead Zero folder, publishing" },
-    { "name": "Feral", "kind": "instrument", "bundle": "Feral.component", "version": "1.4.0", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/Feral-v1.4.0/Feral-1.4.0-mac.zip", "sha256": "c14d0be2d746a590b0b466db51c87afd9327f92efe46e16ff55e8848ea389948", "size": 3653889, "date": "2026-11-25", "notes": "Feral 1.4.0" }
+    { "name": "Feral", "kind": "instrument", "bundle": "Feral.component", "version": "1.4.0", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/Feral-v1.4.0/Feral-1.4.0-mac.zip", "sha256": "c14d0be2d746a590b0b466db51c87afd9327f92efe46e16ff55e8848ea389948", "size": 3653889, "date": "2026-11-25", "notes": "Feral 1.4.0" },
+    { "name": "DZ Central", "kind": "app", "bundle": "DZ Central.app", "version": "1.1.0", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/DZCentral-v1.1.0/DZCentral-1.1.0-mac.zip", "sha256": "a5c881d2c22bb4b4338905da1a0e259f47c6314a586d2fed88bfcc05bf68ebed", "size": 5875764, "date": "2026-11-25", "notes": "Dead Zero look, black and white" }
   ]
 }
