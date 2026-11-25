@@ -20,6 +20,6 @@ up to date. Quit Logic before updating, then reopen it. Plug-ins appear in Logic
 | **DIAMAT** (instrument) | 1.0.0 | [DIAMAT-1.0.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/DIAMAT-v1.0.0/DIAMAT-1.0.0-mac.zip) |
 | **John Drop Tractor Bass** (instrument) | 1.3.1 | [JohnDropTractorBass-1.3.1-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/JohnDropTractorBass-v1.3.1/JohnDropTractorBass-1.3.1-mac.zip) |
 | **Riddim Forge** (instrument) | 5.0.0 | [RiddimForge-5.0.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/RiddimForge-v5.0.0/RiddimForge-5.0.0-mac.zip) |
-| **Unmasked** (instrument) | 1.0.0 | [Unmasked-1.0.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Unmasked-v1.0.0/Unmasked-1.0.0-mac.zip) |
 | **Feral** (instrument) | 1.4.0 | [Feral-1.4.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Feral-v1.4.0/Feral-1.4.0-mac.zip) |
 | **DZ Central** (app) | 1.5.0 | [DZCentral-1.5.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/DZCentral-v1.5.0/DZCentral-1.5.0-mac.zip) |
+| **Unmasked** (instrument) | 1.1.0 | [Unmasked-1.1.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Unmasked-v1.1.0/Unmasked-1.1.0-mac.zip) |
