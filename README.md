@@ -12,7 +12,6 @@ up to date. Quit Logic before updating, then reopen it. Plug-ins appear in Logic
 
 | | Version | Download |
 | --- | --- | --- |
-| **Feral** (instrument) | 1.3.1 | [Feral-1.3.1-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Feral-v1.3.1/Feral-1.3.1-mac.zip) |
 | **VoxMutant** (effect) | 1.4.0 | [VoxMutant-1.4.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/VoxMutant-v1.4.0/VoxMutant-1.4.0-mac.zip) |
 | **VoxMutant Sing** (instrument) | 1.4.0 | [VoxMutantSing-1.4.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/VoxMutantSing-v1.4.0/VoxMutantSing-1.4.0-mac.zip) |
 | **The Bully** (instrument) | 1.0.0 | [TheBully-1.0.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/TheBully-v1.0.0/TheBully-1.0.0-mac.zip) |
@@ -23,3 +22,4 @@ up to date. Quit Logic before updating, then reopen it. Plug-ins appear in Logic
 | **Riddim Forge** (instrument) | 5.0.0 | [RiddimForge-5.0.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/RiddimForge-v5.0.0/RiddimForge-5.0.0-mac.zip) |
 | **Unmasked** (instrument) | 1.0.0 | [Unmasked-1.0.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Unmasked-v1.0.0/Unmasked-1.0.0-mac.zip) |
 | **DZ Central** (app) | 1.0.0 | [DZCentral-1.0.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/DZCentral-v1.0.0/DZCentral-1.0.0-mac.zip) |
+| **Feral** (instrument) | 1.4.0 | [Feral-1.4.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Feral-v1.4.0/Feral-1.4.0-mac.zip) |
