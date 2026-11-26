@@ -1,6 +1,6 @@
 {
   "company": "Dead Zero",
-  "updated": "2026-11-26T04:36:29Z",
+  "updated": "2026-11-26T04:53:19Z",
   "items": [
     { "name": "HyperFract", "kind": "instrument", "bundle": "HyperFract.component", "version": "1.0.1", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/HyperFract-v1.0.1/HyperFract-1.0.1-mac.zip", "sha256": "57b882f87c886b4ef8730363fe044aac37bb0860303ac1b20726cf8ab3a015d1", "size": 7752416, "date": "2026-11-24", "notes": "HyperFract 1.0.1", "replaces": [] },
     { "name": "The Arsenal", "kind": "instrument", "bundle": "The Arsenal.component", "version": "1.1.0", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/TheArsenal-v1.1.0/TheArsenal-1.1.0-mac.zip", "sha256": "5e20a5c05d71d90daaa06e4a1a44da70a4b3650a13a9707efcea226b7fd73b66", "size": 4412411, "date": "2026-11-24", "notes": "The Arsenal 1.1.0", "replaces": [] },
@@ -14,6 +14,7 @@
     { "name": "Faultline", "kind": "instrument", "bundle": "Faultline.component", "version": "1.0.0", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/Faultline-v1.0.0/Faultline-1.0.0-mac.zip", "sha256": "03537a7b36ef59d63b04d762ab11d2fc4f1436613dca6f5bfb1e43e0ebee9977", "size": 3318489, "date": "2026-11-26", "notes": "Faultline 1.0.0", "replaces": [] },
     { "name": "VoxMutant", "kind": "effect", "bundle": "VoxMutant.component", "version": "1.5.0", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/VoxMutant-v1.5.0/VoxMutant-1.5.0-mac.zip", "sha256": "1f92401b8f7a7a9d012acf7eb0fb953c68cba64514da09caaacdedfa6d0b3221", "size": 3227945, "date": "2026-11-26", "notes": "VoxMutant 1.5.0", "replaces": [] },
     { "name": "VoxMutant Sing", "kind": "instrument", "bundle": "VoxMutant Sing.component", "version": "1.5.0", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/VoxMutantSing-v1.5.0/VoxMutantSing-1.5.0-mac.zip", "sha256": "a4b2cd55cf343e096942b6fe168a17a24dae70aa63ef74c88bcb134cba151d96", "size": 4783920, "date": "2026-11-26", "notes": "VoxMutant Sing 1.5.0", "replaces": [] },
-    { "name": "Megalith", "kind": "instrument", "bundle": "Megalith.component", "version": "1.0.0", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/Megalith-v1.0.0/Megalith-1.0.0-mac.zip", "sha256": "dcb8f4b4fdcecb971f37673c344cb5af821e2e6eea1f9b40fd93745c3c1829c9", "size": 3352167, "date": "2026-11-26", "notes": "Megalith 1.0.0", "replaces": [] }
+    { "name": "Megalith", "kind": "instrument", "bundle": "Megalith.component", "version": "1.0.0", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/Megalith-v1.0.0/Megalith-1.0.0-mac.zip", "sha256": "dcb8f4b4fdcecb971f37673c344cb5af821e2e6eea1f9b40fd93745c3c1829c9", "size": 3352167, "date": "2026-11-26", "notes": "Megalith 1.0.0", "replaces": [] },
+    { "name": "Salvage", "kind": "instrument", "bundle": "Salvage.component", "version": "1.0.0", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/Salvage-v1.0.0/Salvage-1.0.0-mac.zip", "sha256": "c95b2975f41e20f1b2403d49cb5f623061056d204a002738be3d27f325b8f313", "size": 4704402, "date": "2026-11-26", "notes": "Salvage 1.0.0", "replaces": [] }
   ]
 }
