@@ -24,3 +24,4 @@ up to date. Quit Logic before updating, then reopen it. Plug-ins appear in Logic
 | **Faultline** (instrument) | 1.0.0 | [Faultline-1.0.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Faultline-v1.0.0/Faultline-1.0.0-mac.zip) |
 | **VoxMutant** (effect) | 1.5.0 | [VoxMutant-1.5.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/VoxMutant-v1.5.0/VoxMutant-1.5.0-mac.zip) |
 | **VoxMutant Sing** (instrument) | 1.5.0 | [VoxMutantSing-1.5.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/VoxMutantSing-v1.5.0/VoxMutantSing-1.5.0-mac.zip) |
+| **Megalith** (instrument) | 1.0.0 | [Megalith-1.0.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Megalith-v1.0.0/Megalith-1.0.0-mac.zip) |
