@@ -1,6 +1,4 @@
 # name	kind	bundle	version	tag	file	sha256	size	date	notes
-VoxMutant	effect	VoxMutant.component	1.4.0	VoxMutant-v1.4.0	VoxMutant-1.4.0-mac.zip	31e52c1ddb4950a7a74f7fc62e03ea1013e21f2e864618d00227c4455ec86d84	3242208	2026-11-24	Set up DZS: one home for every DZS plug-in
-VoxMutant Sing	instrument	VoxMutant Sing.component	1.4.0	VoxMutantSing-v1.4.0	VoxMutantSing-1.4.0-mac.zip	4715ace8b5f46e63a7c2858229b8286d426f20ced49a1c1c9e7a1b97a97bdce5	4788454	2026-11-24	Set up DZS: one home for every DZS plug-in
 HyperFract	instrument	HyperFract.component	1.0.1	HyperFract-v1.0.1	HyperFract-1.0.1-mac.zip	57b882f87c886b4ef8730363fe044aac37bb0860303ac1b20726cf8ab3a015d1	7752416	2026-11-24	HyperFract 1.0.1
 The Arsenal	instrument	The Arsenal.component	1.1.0	TheArsenal-v1.1.0	TheArsenal-1.1.0-mac.zip	5e20a5c05d71d90daaa06e4a1a44da70a4b3650a13a9707efcea226b7fd73b66	4412411	2026-11-24	The Arsenal 1.1.0
 Meltdown	instrument	Meltdown.component	5.0.1	Meltdown-v5.0.1	Meltdown-5.0.1-mac.zip	7bb64ad975f9b553fae1e7594485437656e94d7a1c6ff1122cf458264bd9479e	3419580	2026-11-25	Rename: John Drop Tractor Bass -> Tractors 1.4.0, Riddim Forge -> Meltdown 5.0.1; DZ Central 1.6.0	Riddim Forge.component
@@ -11,3 +9,5 @@ Tractors	instrument	Tractors.component	1.5.0	Tractors-v1.5.0	Tractors-1.5.0-mac.
 Unmasked	instrument	Unmasked.component	1.2.0	Unmasked-v1.2.0	Unmasked-1.2.0-mac.zip	931fa9f8e19233b382a2bb53bb97b5868e89aa0182ff8cc803469252fbc5b9cb	4505615	2026-11-25	Unmasked 1.2.0	
 DIAMAT	instrument	DIAMAT.component	1.1.0	DIAMAT-v1.1.0	DIAMAT-1.1.0-mac.zip	f6456875b35d8340243aed710e3ec8f521f3683a435f87ef35b1edc8b7d069bd	97455	2026-11-25	microtonal scales (THE INTERNATIONALE row)	
 Faultline	instrument	Faultline.component	1.0.0	Faultline-v1.0.0	Faultline-1.0.0-mac.zip	03537a7b36ef59d63b04d762ab11d2fc4f1436613dca6f5bfb1e43e0ebee9977	3318489	2026-11-26	Faultline 1.0.0	
+VoxMutant	effect	VoxMutant.component	1.5.0	VoxMutant-v1.5.0	VoxMutant-1.5.0-mac.zip	1f92401b8f7a7a9d012acf7eb0fb953c68cba64514da09caaacdedfa6d0b3221	3227945	2026-11-26	VoxMutant 1.5.0	
+VoxMutant Sing	instrument	VoxMutant Sing.component	1.5.0	VoxMutantSing-v1.5.0	VoxMutantSing-1.5.0-mac.zip	a4b2cd55cf343e096942b6fe168a17a24dae70aa63ef74c88bcb134cba151d96	4783920	2026-11-26	VoxMutant Sing 1.5.0	

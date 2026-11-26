@@ -12,8 +12,6 @@ up to date. Quit Logic before updating, then reopen it. Plug-ins appear in Logic
 
 | | Version | Download |
 | --- | --- | --- |
-| **VoxMutant** (effect) | 1.4.0 | [VoxMutant-1.4.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/VoxMutant-v1.4.0/VoxMutant-1.4.0-mac.zip) |
-| **VoxMutant Sing** (instrument) | 1.4.0 | [VoxMutantSing-1.4.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/VoxMutantSing-v1.4.0/VoxMutantSing-1.4.0-mac.zip) |
 | **HyperFract** (instrument) | 1.0.1 | [HyperFract-1.0.1-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/HyperFract-v1.0.1/HyperFract-1.0.1-mac.zip) |
 | **The Arsenal** (instrument) | 1.1.0 | [TheArsenal-1.1.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/TheArsenal-v1.1.0/TheArsenal-1.1.0-mac.zip) |
 | **Meltdown** (instrument) | 5.0.1 | [Meltdown-5.0.1-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Meltdown-v5.0.1/Meltdown-5.0.1-mac.zip) |
@@ -24,3 +22,5 @@ up to date. Quit Logic before updating, then reopen it. Plug-ins appear in Logic
 | **Unmasked** (instrument) | 1.2.0 | [Unmasked-1.2.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Unmasked-v1.2.0/Unmasked-1.2.0-mac.zip) |
 | **DIAMAT** (instrument) | 1.1.0 | [DIAMAT-1.1.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/DIAMAT-v1.1.0/DIAMAT-1.1.0-mac.zip) |
 | **Faultline** (instrument) | 1.0.0 | [Faultline-1.0.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Faultline-v1.0.0/Faultline-1.0.0-mac.zip) |
+| **VoxMutant** (effect) | 1.5.0 | [VoxMutant-1.5.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/VoxMutant-v1.5.0/VoxMutant-1.5.0-mac.zip) |
+| **VoxMutant Sing** (instrument) | 1.5.0 | [VoxMutantSing-1.5.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/VoxMutantSing-v1.5.0/VoxMutantSing-1.5.0-mac.zip) |
