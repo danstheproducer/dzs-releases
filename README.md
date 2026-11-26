@@ -26,4 +26,4 @@ up to date. Quit Logic before updating, then reopen it. Plug-ins appear in Logic
 | **VoxMutant Sing** (instrument) | 1.5.0 | [VoxMutantSing-1.5.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/VoxMutantSing-v1.5.0/VoxMutantSing-1.5.0-mac.zip) |
 | **Megalith** (instrument) | 1.0.0 | [Megalith-1.0.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Megalith-v1.0.0/Megalith-1.0.0-mac.zip) |
 | **Salvage** (instrument) | 1.0.0 | [Salvage-1.0.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Salvage-v1.0.0/Salvage-1.0.0-mac.zip) |
-| **Impostor** (effect) | 1.0.0 | [Impostor-1.0.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Impostor-v1.0.0/Impostor-1.0.0-mac.zip) |
+| **Impostor** (effect) | 1.1.0 | [Impostor-1.1.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Impostor-v1.1.0/Impostor-1.1.0-mac.zip) |
