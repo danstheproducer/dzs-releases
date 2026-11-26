@@ -23,3 +23,4 @@ up to date. Quit Logic before updating, then reopen it. Plug-ins appear in Logic
 | **Tractors** (instrument) | 1.5.0 | [Tractors-1.5.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Tractors-v1.5.0/Tractors-1.5.0-mac.zip) |
 | **Unmasked** (instrument) | 1.2.0 | [Unmasked-1.2.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Unmasked-v1.2.0/Unmasked-1.2.0-mac.zip) |
 | **DIAMAT** (instrument) | 1.1.0 | [DIAMAT-1.1.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/DIAMAT-v1.1.0/DIAMAT-1.1.0-mac.zip) |
+| **Faultline** (instrument) | 1.0.0 | [Faultline-1.0.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Faultline-v1.0.0/Faultline-1.0.0-mac.zip) |
