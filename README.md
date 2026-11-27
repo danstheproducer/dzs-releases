@@ -26,5 +26,5 @@ up to date. Quit Logic before updating, then reopen it. Plug-ins appear in Logic
 | **Megalith** (instrument) | 1.0.0 | [Megalith-1.0.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Megalith-v1.0.0/Megalith-1.0.0-mac.zip) |
 | **Salvage** (instrument) | 1.0.0 | [Salvage-1.0.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Salvage-v1.0.0/Salvage-1.0.0-mac.zip) |
 | **Impostor** (effect) | 1.1.0 | [Impostor-1.1.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Impostor-v1.1.0/Impostor-1.1.0-mac.zip) |
-| **DZ Central** (app) | 1.6.2 | [DZCentral-1.6.2-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/DZCentral-v1.6.2/DZCentral-1.6.2-mac.zip) |
 | **Raygun** (instrument) | 1.2.0 | [Raygun-1.2.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Raygun-v1.2.0/Raygun-1.2.0-mac.zip) |
+| **DZ Central** (app) | 1.7.0 | [DZCentral-1.7.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/DZCentral-v1.7.0/DZCentral-1.7.0-mac.zip) |
