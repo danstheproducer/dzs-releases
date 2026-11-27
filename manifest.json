@@ -1,6 +1,6 @@
 {
   "company": "Dead Zero",
-  "updated": "2026-11-27T03:26:50Z",
+  "updated": "2026-11-27T22:08:08Z",
   "items": [
     { "name": "HyperFract", "kind": "instrument", "bundle": "HyperFract.component", "version": "1.0.1", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/HyperFract-v1.0.1/HyperFract-1.0.1-mac.zip", "sha256": "57b882f87c886b4ef8730363fe044aac37bb0860303ac1b20726cf8ab3a015d1", "size": 7752416, "date": "2026-11-24", "notes": "HyperFract 1.0.1", "replaces": [], "minOS": "" },
     { "name": "The Arsenal", "kind": "instrument", "bundle": "The Arsenal.component", "version": "1.1.0", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/TheArsenal-v1.1.0/TheArsenal-1.1.0-mac.zip", "sha256": "5e20a5c05d71d90daaa06e4a1a44da70a4b3650a13a9707efcea226b7fd73b66", "size": 4412411, "date": "2026-11-24", "notes": "The Arsenal 1.1.0", "replaces": [], "minOS": "" },
@@ -17,6 +17,7 @@
     { "name": "Salvage", "kind": "instrument", "bundle": "Salvage.component", "version": "1.0.0", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/Salvage-v1.0.0/Salvage-1.0.0-mac.zip", "sha256": "c95b2975f41e20f1b2403d49cb5f623061056d204a002738be3d27f325b8f313", "size": 4704402, "date": "2026-11-26", "notes": "Salvage 1.0.0", "replaces": [], "minOS": "" },
     { "name": "Impostor", "kind": "effect", "bundle": "Impostor.component", "version": "1.1.0", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/Impostor-v1.1.0/Impostor-1.1.0-mac.zip", "sha256": "c12dc9e66d0ea05f24e4d514e60d81337e808d49e097ace624fe5c7c8e3d7f2f", "size": 4305405, "date": "2026-11-26", "notes": "Impostor 1.1.0", "replaces": [], "minOS": "" },
     { "name": "Raygun", "kind": "instrument", "bundle": "Raygun.component", "version": "1.2.0", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/Raygun-v1.2.0/Raygun-1.2.0-mac.zip", "sha256": "3da53bf69486555b840ddf251020a37decbe86049974e96b3c6068c657cd2095", "size": 3380997, "date": "2026-11-26", "notes": "Raygun 1.2.0", "replaces": [], "minOS": "" },
-    { "name": "DZ Central", "kind": "app", "bundle": "DZ Central.app", "version": "1.7.0", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/DZCentral-v1.7.0/DZCentral-1.7.0-mac.zip", "sha256": "31bcb88bdb1b655a1577b35569915f3d7955a23c93c789c1f12d8017696d0320", "size": 6511283, "date": "2026-11-27", "notes": "apps besides DZ Central (for Oido)", "replaces": [], "minOS": "" }
+    { "name": "DZ Central", "kind": "app", "bundle": "DZ Central.app", "version": "1.7.0", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/DZCentral-v1.7.0/DZCentral-1.7.0-mac.zip", "sha256": "31bcb88bdb1b655a1577b35569915f3d7955a23c93c789c1f12d8017696d0320", "size": 6511283, "date": "2026-11-27", "notes": "apps besides DZ Central (for Oido)", "replaces": [], "minOS": "" },
+    { "name": "Oido", "kind": "app", "bundle": "Oido.app", "version": "15.51.0", "url": "https://github.com/danstheproducer/dzs-releases/releases/download/Oido-v15.51.0/Oido-15.51.0-mac.zip", "sha256": "014d470a6d57a5c8a9b73108af7ed06befbd8aad83923599dc2835b3a7cb5147", "size": 31815141, "date": "2026-11-27", "notes": "fix CI build (type-check timeout in RecetasMotor)", "replaces": [], "minOS": "13.0" }
   ]
 }

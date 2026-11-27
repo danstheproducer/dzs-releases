@@ -28,3 +28,4 @@ up to date. Quit Logic before updating, then reopen it. Plug-ins appear in Logic
 | **Impostor** (effect) | 1.1.0 | [Impostor-1.1.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Impostor-v1.1.0/Impostor-1.1.0-mac.zip) |
 | **Raygun** (instrument) | 1.2.0 | [Raygun-1.2.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Raygun-v1.2.0/Raygun-1.2.0-mac.zip) |
 | **DZ Central** (app) | 1.7.0 | [DZCentral-1.7.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/DZCentral-v1.7.0/DZCentral-1.7.0-mac.zip) |
+| **Oido** (app) | 15.51.0 | [Oido-15.51.0-mac.zip](https://github.com/danstheproducer/dzs-releases/releases/download/Oido-v15.51.0/Oido-15.51.0-mac.zip) |
