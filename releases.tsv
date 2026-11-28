@@ -15,5 +15,5 @@ Salvage	instrument	Salvage.component	1.0.0	Salvage-v1.0.0	Salvage-1.0.0-mac.zip	
 Impostor	effect	Impostor.component	1.1.0	Impostor-v1.1.0	Impostor-1.1.0-mac.zip	c12dc9e66d0ea05f24e4d514e60d81337e808d49e097ace624fe5c7c8e3d7f2f	4305405	2026-11-26	Impostor 1.1.0	
 Raygun	instrument	Raygun.component	1.2.0	Raygun-v1.2.0	Raygun-1.2.0-mac.zip	3da53bf69486555b840ddf251020a37decbe86049974e96b3c6068c657cd2095	3380997	2026-11-26	Raygun 1.2.0	
 DZ Central	app	DZ Central.app	1.7.0	DZCentral-v1.7.0	DZCentral-1.7.0-mac.zip	31bcb88bdb1b655a1577b35569915f3d7955a23c93c789c1f12d8017696d0320	6511283	2026-11-27	apps besides DZ Central (for Oido)	-	-
-Oido	app	Oido.app	15.51.0	Oido-v15.51.0	Oido-15.51.0-mac.zip	014d470a6d57a5c8a9b73108af7ed06befbd8aad83923599dc2835b3a7cb5147	31815141	2026-11-27	fix CI build (type-check timeout in RecetasMotor)	-	13.0
 Multichord CC	midi	Multichord CC.component	0.2.0	MultichordCC-v0.2.0	MultichordCC-0.2.0-mac.zip	2a047506eb1145352be1ad79e113654e36d97421ec91afdfef7a1233312ce9e3	4530237	2026-11-27	Multichord CC 0.2.0	-	-
+Oido	app	Oido.app	15.52.0	Oido-v15.52.0	Oido-15.52.0-mac.zip	a6b76177db3cd546346e986f313a9e7107babeafde636b9eb52fcd693ae07102	31937427	2026-11-28	independent drum tracks, AU MIDI FX slot (Multichord), XY to automation, AL TEMPO previews, stop button, sampler drag-out, CI type-check fixes	-	13.0
